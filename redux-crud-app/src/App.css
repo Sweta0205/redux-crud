@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color:white
+}
+.btn1{
+    background-color: yellow !important
+ 
+    
+}
+.btn2{
+    background-color: red !important
+}
+.btn3
+{
+    background-color: blue !important
+
+}
+.save
+{
+    background-color: pink !important
+
+}
+.del
+{
+    background-color: red !important
+
+}
